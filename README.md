@@ -1,4 +1,4 @@
-# 🛍️ Online Do'kon — Internet Magazin & Admin Paneli
+# 🛍️ Online Do'kon — Internet Magazin & Admin Paneli.
 
 Zamonaviy, qulay va to'liq o'zbek tilidagi elektron tijorat (E-commerce) platformasi va do'kon egasi uchun kuchli boshqaruv paneli (Admin Dashboard).
 
